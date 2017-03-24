@@ -4,7 +4,7 @@ A super simple command line brcrypt hasher
 
 ## Installation
 ```
-github.com/utilitywarehouse/bcrypter
+go get github.com/utilitywarehouse/bcrypter
 ```
 
 ## Running
