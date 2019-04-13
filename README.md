@@ -1,6 +1,6 @@
 # bcrypter
 
-A super simple command line brcrypt hasher
+A super simple command lineb bcrypt hasher
 
 ## Installation
 ```
